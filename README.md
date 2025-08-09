@@ -38,4 +38,5 @@ To run the application locally, follow these steps:
 
 ## Demo
 
-Check out the live demo [here](https://purbasharaya.github.io/Sorting-Visualizer/).
+Check out the live demo [here](sorting-algorithm-visualizer01.vercel.app
+).
